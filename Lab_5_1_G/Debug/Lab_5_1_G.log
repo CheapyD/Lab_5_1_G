@@ -1,0 +1,34 @@
+﻿  Lab_5_1_G.cpp
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.h(13,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.h(28,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(9,10): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(12,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(13,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(14,46): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(15,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Lab_5_1_G.cpp(9,36): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  MyDerivedException.cpp
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\MyDerivedException.cpp(4,1): warning C5043: "MyDerivedException::What": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\MyDerivedException.h(10): message : см. объявление "MyDerivedException::What"
+  MyException.cpp
+  Object.cpp
+  Triad.cpp
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.h(13,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.h(28,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.cpp(7,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.cpp(47,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Triangle.cpp
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.h(13,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triad.h(28,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(9,10): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(12,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(13,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(14,46): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.h(15,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.cpp(7,67): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.cpp(19,53): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.cpp(27,59): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.cpp(35,55): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_G\Lab_5_1_G\Triangle.cpp(44,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Создание кода...
+  Lab_5_1_G.vcxproj -> C:\Users\maksd\source\repos\Lab_5_1_G\Debug\Lab_5_1_G.exe
